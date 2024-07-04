@@ -1,0 +1,2 @@
+# script
+maji.lol
