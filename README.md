@@ -1,2 +1,1 @@
-# script
-maji.lol
+stop skidding from maji!
